@@ -1,0 +1,11 @@
+ipykernel
+dotenv
+langchain
+langchain_groq
+langchain_core
+langchain_community
+transformers
+langchain-chroma
+langchain_huggingface
+sentence-transformers
+bs4
